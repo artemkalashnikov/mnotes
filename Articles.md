@@ -40,3 +40,7 @@
 [**15 фишек в Chrome DevTools**](http://tutorialzine.com/2015/03/15-must-know-chrome-devtools-tips-tricks/)
 
 [**Специальные символы для HTML, CSS, JS во всех вариациях**](https://css-tricks.com/snippets/html/glyphs/)
+
+[**Как превратить сайт в Progressive Web Application**](https://mxb.at/blog/how-to-turn-your-website-into-a-pwa/)
+
+[**О том, как сделать ваш сайт работающим в оффлайне**](https://mxb.at/blog/youre-offline/)
