@@ -71,3 +71,6 @@
 
 [**Latitude and Longitude**](http://www.latlong.net/)  
 Получение широты и долготы по месту на карте. Полезно, например, в случае, когда мы хотим в определенные координаты поставить маркер при использовании Google Maps Javascript API.
+
+[**Favicon Generator**](http://realfavicongenerator.net/)  
+Генерирует фавиконки для всех браузеров и платформ, а также `browserconfig.xml` и `manifest.json`.
