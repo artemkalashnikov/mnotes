@@ -44,3 +44,8 @@
 [**Как превратить сайт в Progressive Web Application**](https://mxb.at/blog/how-to-turn-your-website-into-a-pwa/)
 
 [**О том, как сделать ваш сайт работающим в оффлайне**](https://mxb.at/blog/youre-offline/)
+
+
+## Интересные how-to
+
+[**Сделай селфи с помощью Javascript**](https://tutorialzine.com/2016/07/take-a-selfie-with-js)
