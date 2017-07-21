@@ -10,6 +10,8 @@
 
 [**Автовыделение блока текста и его копирование**](https://css-tricks.com/force-selection-text-block/)
 
+[**Плавная прокрутка на ванильном Javascript**](https://www.sitepoint.com/smooth-scrolling-vanilla-javascript/)
+
 
 ## Решение проблем вёрстки
 
