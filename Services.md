@@ -78,7 +78,7 @@
 [**Favicon Generator**](http://realfavicongenerator.net/)  
 Генерирует фавиконки для всех браузеров и платформ, а также `browserconfig.xml` и `manifest.json`.
 
-[**SSL For Free**](https://www.sslforfree.com/)
+[**SSL For Free**](https://www.sslforfree.com/)  
 Очень удобный сервис для быстрой и легкой выписки SSL-сертификата от Let's Encrypt.
 
 [**RegExr**](http://regexr.com/)  
