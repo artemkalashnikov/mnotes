@@ -51,3 +51,9 @@
 ## Интересные how-to
 
 [**Сделай селфи с помощью Javascript**](https://tutorialzine.com/2016/07/take-a-selfie-with-js)
+
+## Non-Technical
+
+[**Десять правил ведения переговоров после получения предложения о работе**](https://medium.freecodecamp.org/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6) и [**вторая часть статьи**](https://medium.freecodecamp.org/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea)
+
+[**О карьерном росте разработчика**](http://www.metadevelopment.io/growing-as-software-engineer/)
